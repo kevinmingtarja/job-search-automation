@@ -1,2 +1,2 @@
 # job-search-automation
-Automating Job Searching using Python with BeautifulSoup
+A script that extracts job listings from indeed.com using Python with BeautifulSoup
